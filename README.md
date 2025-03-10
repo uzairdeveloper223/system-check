@@ -12,4 +12,4 @@ This PowerShell script helps you **check the health of a used Windows computer b
 ## 📌 How to Run  
 Open **PowerShell (Admin)** and run this **one-liner command**:  
 ```powershell
-irm "https://raw.githubusercontent.com/uzairdeveloper223/system-check/main/machine_check.ps1" | iex
+irm "https://raw.githubusercontent.com/uzairdeveloper223/system-check/refs/heads/Master/machine_check.ps1" | iex
